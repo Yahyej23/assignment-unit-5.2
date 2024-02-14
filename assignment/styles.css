@@ -1,0 +1,29 @@
+/*wanted to play around more with the css */
+header{
+    background: rgb(0, 0, 0);
+    color: whitesmoke;
+    text-align: center;
+    border: 15px outset  skyblue;
+    
+}
+header:hover{
+    background: whitesmoke;
+    color: black;
+}
+
+main {
+    background: lightgray;
+    padding: 1em;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+    box-shadow: 1px 1px 5px 5px rgb(157, 194, 209);
+    font-size: 20px;
+    
+}
+
+
+body {
+    background-image: url("record.png");
+    background-repeat: repeat-t;
+    margin: 0;
+  }
